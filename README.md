@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrimeShatriya aka Ashutosh Kumar Gupta. Self-taught Coder(Hatchling). Still exploring (⊙_⊙;)
+- 👋 Hi, I’m @PrimeShatriya aka Ashutosh Kumar Gupta. Self-taught Coder.
 <!-- - 👀 I’m interested in Web and Software applications-->
 - 🌱 I’m currently learning Python
 <!-- - 💞️ I’m looking to collaborate on ...-->
